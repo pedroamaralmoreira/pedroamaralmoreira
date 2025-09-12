@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning java  and python 
 - 💞️ I’m looking to collaborate on all projects 
 - 📫 How to reach me pedrohenriquebf3@gmail.com
-- 
+  
 
 <!---
 pedroamaralmoreira/pedroamaralmoreira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
