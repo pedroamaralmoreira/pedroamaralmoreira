@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pedroamaralmoreira
 - 👀 I’m interested in developing in general
-- 🌱 I’m currently learning java  and python 
+- 🌱 I’m currently learning java 
 - 💞️ I’m looking to collaborate on all projects 
 - 📫 How to reach me pedrohenriquebf3@gmail.com
   
