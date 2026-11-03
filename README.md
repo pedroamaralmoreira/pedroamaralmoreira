@@ -23,8 +23,6 @@ Meu foco é combinar fundamentos de desenvolvimento de software com o potencial 
 
 ### Inteligência Artificial
 
-Ferramentas utilizadas no processo de desenvolvimento e construção de aplicações:
-
 - OpenAI Codex
 - Claude Code
 - Cursor
@@ -48,7 +46,7 @@ Ferramentas utilizadas no processo de desenvolvimento e construção de aplicaç
 - Vercel
 - Linux Ubuntu
 
-### Design e ferramentas criativas
+### Design
 
 - Figma
 - Adobe Photoshop
@@ -83,60 +81,10 @@ Projeto de modernização digital de uma empresa do setor de soluções para eng
 🔗 **Website:** https://biovia.com.br  
 🔗 **Repositório:** https://github.com/pedroamaralmoreira/BIOVIA
 
-### Amaral Auto & Náutica — Soluções Digitais
+### Amaral Mecânica — Diesel Leve e Flex
 
-Projeto de desenvolvimento digital para uma empresa do setor automotivo e náutico.
+Projeto de desenvolvimento e modernização da presença digital de uma oficina especializada em Itajaí-SC.
 
-- Planejamento de uma nova experiência digital.
-- Utilização de ferramentas de IA para desenvolvimento e estruturação de interfaces.
-- Planejamento de um sistema de gestão para oficinas.
-- Estudo de funcionalidades para relacionamento com clientes e gestão operacional.
-
-### Trecho — Gestão de Obras
-
-Conceito de plataforma para acompanhamento e gestão de obras de pavimentação.
-
-- Modelagem de processos e regras de negócio.
-- Planejamento de controle de custos e execução de obras.
-- Estruturação de funcionalidades para acompanhamento de trechos e serviços.
-- Estudo de arquitetura para uma aplicação com suporte a ambientes de baixa conectividade.
-
----
-
-## Experiência profissional
-
-**Instituto de Computação — Universidade Federal da Bahia**
-
-*Estagiário em Suporte de TI | Outubro de 2025 – Atual*
-
-Atuação no suporte técnico de informática, diagnóstico e resolução de problemas, manutenção de computadores, configuração de equipamentos, suporte a ambientes Linux e apoio às atividades tecnológicas do Instituto.
-
----
-
-## Formação acadêmica
-
-**Universidade Federal da Bahia (UFBA)**
-
-Bacharelado Interdisciplinar em Ciência e Tecnologia  
-2023.1 – 2027.2
-
----
-
-## Idiomas
-
-- Português: Fluente
-- Inglês: Avançado
-
----
-
-## Vamos nos conectar?
-
-Estou aberto a oportunidades de estágio e desenvolvimento profissional nas áreas de Inteligência Artificial, IA generativa, desenvolvimento de software e automação.
-
-- **GitHub:** https://github.com/pedroamaralmoreira
-- **LinkedIn:** [Adicionar endereço do LinkedIn]
-- **E-mail:** pedrohenriquebf3@gmail.com
-
----
-
-*Transformando ideias em soluções através de tecnologia e Inteligência Artificial.*
+- Desenvolvimento de uma experiência digital voltada ao segmento automotivo.
+- Apresentação de serviços de mecânica diesel leve, motores flex, diagnóstico eletrônico e manutenção.
+- Estrutura
